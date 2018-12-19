@@ -1,0 +1,23 @@
+{
+  "name": "fdef",
+  "version": "0.0.1",
+  "description": "Define functions using haskell-like syntax",
+  "main": "fdef.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "def",
+    "define",
+    "function",
+    "functional",
+    "haskell",
+    "pattern",
+    "pattern-matching",
+    "matching",
+    "template",
+    "tag"
+  ],
+  "author": "Artur Muniz <arturmunizjr+opensource@gmail.com>",
+  "license": "MIT"
+}
