@@ -19,5 +19,12 @@
     "tag"
   ],
   "author": "Artur Muniz <arturmunizjr+opensource@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "fast-check": "^1.8.2",
+    "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
 }
