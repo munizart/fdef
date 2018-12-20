@@ -4,7 +4,7 @@
   "description": "Define functions using haskell-like syntax",
   "main": "fdef.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "jest"
   },
   "keywords": [
     "def",
