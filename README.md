@@ -2,7 +2,7 @@
 Define functions using haskell-like syntax
 
 ## Usage example
-(see it live at https://runkit.com/munizart/5bfef7ba07b85400123ee291)
+(see it live at https://runkit.com/munizart/5c23a86934f9b4001243e975)
 
 ```javascript
 const fdef = require('fdef')
